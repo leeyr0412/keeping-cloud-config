@@ -7,4 +7,4 @@ spring:
     secret: '{cipher}AQBWIo8W/hcGhENLofq5mmYWjxO2Bc95FrsTUOPBfEVBbwcpcgMElvg1JOvFfm5boEdj3AutH9heyJzy9r5XrN7BDj57mT8e70l2MCTuZfVnJVhF1hmagJHu4GLltO6UaI6LL5RpCC1sX4KNcHDPdRHA5WiNVU2LN26v0i5Vfx2S6DYHPx3FiBvQWNAu6oEysWzJGWqeLBcPq011i+uQxsQsXYQxGcSK9leQi6OuxhgDv+LKfNLZ09+ibgXX0ceVWk9g9EIvJ41n/TGA0ZyJPM7b190yjII/bDpz6nODHMH/FvtcpWUqeYWLU6gtQJv0P9i0Wb1xqSjEEVDctF2AD/8Rms6xI39FfwZ9WmlpixQvBakSY9Rk0qkEpPiRV1VJ/+7cG8TDk/jCFMIUba+RM+aqioYlpBenPXfwD0En0QO+ks4uLhxsHjSJEyGaRoIkI1c='
 
 gateway:
-  ip: 127.0.0.1
+  ip: http://j9c207.p.ssafy.io
